@@ -19,9 +19,9 @@ from datetime import datetime, timezone
 # sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'ONIX Docs'
-copyright = '2010-{}, Open Ephys & Contributors'.format(datetime.now(timezone.utc).year)
-author = 'Open Ephys & Contributors'
+project = 'R2 Implant System Docs'
+copyright = '2025-{}, 3Dneuro & Contributors'.format(datetime.now(timezone.utc).year)
+author = '3Dneuro & Contributors'
 language = 'en'
 
 # The short X.Y version
@@ -41,9 +41,8 @@ language = 'en'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
-    'sphinx.ext.graphviz',
-    'sphinxcontrib.wavedrom',
-    'sphinx_design'
+    'sphinx_design',
+    'sphinx.ext.autosectionlabel'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -75,7 +74,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 html_theme = 'pydata_sphinx_theme'
-html_logo = '_static/onix_open_ephys_logo.svg'
+html_logo = '_static/images/3Dneuro_logo.png'
 html_scaled_image_link = True
 html_title = project
 
@@ -97,11 +96,11 @@ html_sidebars = {
 texinfo_documents = [
     (
         main_doc,
-        'ONIX Documentation',
-        'ONIX Documentation',
+        'R2 Implant System Documentation',
+        'R2 Implant System Documentation',
         author,
-        'ONIX Documentation',
-        'Next-generation electrophysiology data acquisition',
+        'R2 Implant System Documentation',
+        'The R2 (Recover & Reuse) system for silicon probe implants',
         'Miscellaneous',
     ),
 ]
@@ -116,25 +115,25 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links"],
     "navbar_align": "content",
     "footer_start": ["copyright"],
-    "external_links": [{"name": "Open Ephys", "url": "https://open-ephys.org"},],
+    "external_links": [{"name": "3Dneuro", "url": "https://3dneuro.com"},],
     'icon_links': [
         dict(name='GitHub',
-             url='https://github.com/open-ephys/onix-docs',
+             url='https://github.com/der-tim/onix-docs',
              icon='fab fa-github'),
         dict(name='Twitter',
-             url='https://twitter.com/openephys',
+             url='https://twitter.com/3Dneuro',
              icon='fab fa-twitter'),
-        dict(name='Discord',
-             url='https://discord.gg/WXAx2URNQU',
-             icon='fab fa-discord')
+        dict(name='Bluesky',
+             url='https://bsky.app/profile/3dneuro.bsky.social',
+             icon='fab fa-bluesky')
     ]
     #'announcement': 'These docs are a work in progress.',
 }
 
-html_favicon = '_static/favicon.png'
+html_favicon = '_static/images/favicon.png'
 
 html_context = {
-    'github_user': 'open-ephys',
+    'github_user': 'der-tim',
     'github_repo': 'onix-docs',
     'github_version': 'main',
     'doc_path': 'source',
@@ -147,7 +146,7 @@ html_css_files = [
 
 # Option for linkcheck
 linkcheck_anchors = False
-linkcheck_timeout = 4
+linkcheck_timeout = 10
 
 # NB: Ignore these sites, they throw 403 errors during linkcheck, but are accessible for end-users
 linkcheck_ignore = [
@@ -155,7 +154,10 @@ linkcheck_ignore = [
     'https://www.intel.com/*',
     'https://www.analog.com/*',
     'https://www.xilinx.com/*',
-    'https://white-matter.com/*'
+    'https://white-matter.com/*',
+    'https://www.pnas.org/*',
+    'https://www.sciencedirect.com/*',
+    'https://www.biorxiv.org/*'
 ]
 
 # NB: Allow this permanent redirect for a Visual Studio package

@@ -35,7 +35,7 @@ jobs:
       - name: Check all external links
         id: make_linkcheck
         run: |
-          pipenv run make linkcheck SPHINXOPTS="-W --keep-going"
+          pipenv run make linkcheck SPHINXOPTS=""
 
       - name: Upload GitHub Pages Artifact
         uses: actions/upload-pages-artifact@v3

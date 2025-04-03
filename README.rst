@@ -1,12 +1,15 @@
-=========
-Documentation for ONIX
-=========
+=============================================
+Documentation for the R2 Implant System
+=============================================
+
+Based on the OpenEphys ONIX documentation
 
 This documentation's source template was taken from the `Spinal HDL <https://github.com/SpinalHDL/SpinalDoc-RTD>`_ project.
 
 The theme is based on the `PyData Sphinx Theme <https://pydata-sphinx-theme.readthedocs.io/en/latest/>`_
 
 For more detailed usage instructions, see the `Open Ephys Doc Template <https://github.com/open-ephys/doc-template>`_
+
 
 How to build this documentation
 ===============================
