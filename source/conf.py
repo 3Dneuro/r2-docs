@@ -118,7 +118,7 @@ html_theme_options = {
     "external_links": [{"name": "3Dneuro", "url": "https://3dneuro.com"},],
     'icon_links': [
         dict(name='GitHub',
-             url='https://github.com/der-tim/onix-docs',
+             url='https://github.com/3Dneuro/r2-docs',
              icon='fab fa-github'),
         dict(name='Twitter',
              url='https://twitter.com/3Dneuro',
