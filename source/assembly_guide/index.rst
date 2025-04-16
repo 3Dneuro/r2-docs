@@ -1,3 +1,5 @@
+.. _assembly-guide:
+
 Assembly Guide
 ==============
 

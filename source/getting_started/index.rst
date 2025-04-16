@@ -1,3 +1,5 @@
+.. _getting-started:
+
 Getting Started
 ===============
 
@@ -19,6 +21,9 @@ The R2 system is an complete and integrated set of tools that includes:
 
 Below we go into the details of each component of the R2 system.
 
+
+.. _getting-started-payload-carrier:
+
 1. Payload carrier - Microdrives & microrails
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -31,6 +36,8 @@ The *R2rail* is a new type of payload carrier - that in line with the well-estab
 
 .. note::  
     While the R2rail can be used interchangeably with the R2drive, it does not possess a drive mechanism. Please make sure that you are using an R2drive when adjusting probe depth post-implantation is required for your use case\!
+
+.. _getting-started-r2drive:
 
 R2drive S & L
 ^^^^^^^^^^^^^
@@ -45,6 +52,8 @@ The R2drive consists of two main parts: The drive body and the detachable base.
 As a result, this system facilitates the safe recovery of expensive probes and lets experienced researchers reuse the same R2drive body-silicon probe assembly for up to 3-5 times.
 
 For more information on the R2drive S and L, see :doc:`the user manual for the R2drive</user_manual/r2drive_sl/index>`.
+
+.. _getting-started-r2rail:
 
 R2rail
 ^^^^^^
@@ -61,6 +70,7 @@ The micromachined rails ensure perfect alignment of the probes to the R2rail.
 
 For more information on the R2rail, see :doc:`the user manual for the R2rail</user_manual/r2rail/index>`.
 
+.. _getting-started-payload-delivery-system:
 
 2. Payload delivery system
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,6 +85,8 @@ Surgery holders allow the handling of the payload carrier/probe assembly during 
 The original design for an implantation holder and stereotaxic adapter consists of 3D printed plastic parts. A new version in metal is under development. 
 
 For more information on the holders, see :doc:`the user manual</user_manual/implantation_holders/index>`.
+
+.. _getting-started-headgear:
 
 3. Headgear
 ~~~~~~~~~~~
@@ -98,6 +110,8 @@ The R2 system includes multiple headgear designs for different use cases:
 * Other headgear designs, e.g., 3Dneuro crown, DREAM implant, and custom solutions
 
 For more information on the headgear, see :doc:`the user manual</user_manual/headgear/index>`.
+
+.. _getting-started-references:
 
 References
 ~~~~~~~~~~~

@@ -1,12 +1,11 @@
 .. _assembly-R2drive:
 
-
 Assembly guide: R2drive S/L
 ===========================
 
 3Dneuro/Open Ephys ship the R2drive fully assembled, with an individual serial number. Therefore, no assembly of the drive is required.
 
-The R2drive is manufactured differently than the original 3D-printed design (see table below). 
+The R2drive is manufactured differently than the original 3D printed design (see table below). 
 
   
 .. list-table::
@@ -39,7 +38,7 @@ There are additional design differences between the 3Dneuro/Open Ephys version a
    :alt: R2drive parts
    :height: 300px
 
-   Comparison of both designs. Left: 3D-printed, Right: Machined. 
+   Comparison of both designs. Left: 3D printed, Right: Machined. 
 
 
 
@@ -49,7 +48,7 @@ In the 3Dneuro/Open Ephys version:
 * On the drive body, the square-shaped hole that fits a male header pin was changed into a round shape. 
    
 .. warning::
-   Parts are not compatible across designs. For example, a machined base cannot be used with a 3D-printed drive body and vice versa.  
+   Parts are not compatible across designs. For example, a machined base cannot be used with a 3D printed drive body and vice versa.  
 
 
 

@@ -1,7 +1,10 @@
-User manual: R2 implantation holders
+.. _user-manual-implantation-holders:
+
+R2 implantation holders
 =====================================
 
 
+.. _user-manual-implantation-holders-plastic:
 
 3D printed holder (plastic)
 ---------------------------
@@ -13,7 +16,7 @@ The plastic holder comes fully pre-assembled and ready to use. Through the stere
    :height: 300px
    :align: center
 
-   The 3D-printed stereotax adapter and drive holder, assembled. 
+   The 3D printed stereotax adapter and drive holder, assembled. 
    **Left:** Original design, with a shaded rendering of an R2drive S in the drive holder.
    **Right:** With mirrored version of the holder.
 
@@ -36,6 +39,8 @@ In addition to the original drive holder design, 3Dneuro ships by default a mirr
 
 
 
+.. _user-manual-implantation-holders-metal:
+
 Metal holder
 -------------
 
@@ -43,7 +48,7 @@ Coming soon.
 
 .. note::
 
-   To overcome some limitations of the original 3D-printed holder, 3Dneuro is currently finalizing the development of a metal holder
+   To overcome some limitations of the original 3D printed holder, 3Dneuro is currently finalizing the development of a metal holder
    with a smaller footprint and improved holding stability.
 
 

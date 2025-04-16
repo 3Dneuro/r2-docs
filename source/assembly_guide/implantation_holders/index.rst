@@ -1,4 +1,6 @@
-Assembly guide: R2 implantation holders
+.. _assembly-implantation-holders:
+
+R2 implantation holders
 =======================================
 
 
@@ -25,10 +27,11 @@ Original holder (plastic)
 For sourcing parts and assembling the design yourself, the reference protocol is the `Buzsaki lab's GitHub page <https://buzsakilab.github.io/3d_print_designs/microdrives/metal-microdrive/>`__.
 
 
+.. _assembly-implantation-holder-metal:
 
 Metal holder and storage box
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-   To overcome some limitations of the original 3D-printed holder, 3Dneuro is currently finalizing the development of a metal holder with a smaller footprint and improved holding stability.
+   To overcome some limitations of the original 3D printed holder, 3Dneuro is currently finalizing the development of a metal holder with a smaller footprint and improved holding stability.

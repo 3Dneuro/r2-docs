@@ -24,6 +24,7 @@ The **R2 system** is an open-source implantation system for silicon probes. R2 s
 
     Please also mention 3Dneuro as the manufacturer of the R2 system in your methods section.
     
+.. _r2-system-components:
 
 Components
 ~~~~~~~~~~
@@ -31,6 +32,8 @@ Components
 * A payload carrier, with or without a drive mechanism,
 * A surgery holder for implant-/explant-ation,
 * Headgear to protect the implant in freely moving animals (versions for mice and rats).
+
+.. _r2-system-key-features:
 
 Key features
 ~~~~~~~~~~~~

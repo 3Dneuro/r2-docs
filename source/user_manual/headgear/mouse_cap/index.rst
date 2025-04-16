@@ -1,4 +1,6 @@
-User manual: Mouse cap
+.. _user-manual-mouse-cap:
+
+Mouse cap
 =======================
 
 

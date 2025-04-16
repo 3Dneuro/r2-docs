@@ -1,4 +1,6 @@
-Assembly guide: Rat cap
+.. _assembly-rat-cap:
+
+Rat cap
 ========================
 
 .. figure:: ../../../_static/images/rat_cap_parts.png

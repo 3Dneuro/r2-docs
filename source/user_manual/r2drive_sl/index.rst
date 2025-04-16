@@ -1,9 +1,14 @@
-User manual: R2drive S/L
+.. _user-manual-r2drive:
+
+R2drive S/L
 ==========================
 
+.. _user-manual-r2drive-unboxing:
 
 Unboxing
 --------
+
+.. _user-manual-r2drive-whats-in-the-box:
 
 What’s in the box?
 ^^^^^^^^^^^^^^^^^^
@@ -30,6 +35,8 @@ In addition to the 5 main elements illustrated above - drive body, arm, base, dr
     The R2drive differs in several ways from the Vöröslakos et al. metal version, including the manufacturing method, choice of material and design features. See :ref:`R2drive assembly guide<assembly-R2drive>` for details.\
 
 
+.. _user-manual-r2drive-two-versions:
+
 Two versions
 ^^^^^^^^^^^^
 
@@ -49,6 +56,8 @@ The R2drive comes in 2 versions, differing by arm size: Small (S) will fit most 
 
 
 
+
+.. _user-manual-r2drive-features:
 
 R2drive features
 ^^^^^^^^^^^^^^^^
@@ -75,6 +84,8 @@ R2drive features
 Regarding the travel distance, the 7 mm mentioned in Vöröslakos et al. 2021 is the maximum theoretical travel distance. Manufacturing processes such as soldering or welding will reduce that distance by 0.5 to 1 mm.
 
 
+.. _user-manual-r2drive-before-use:
+
 Before (first) use
 ------------------
 
@@ -96,6 +107,8 @@ Below we describe in more detail each check.
 (4) Attaching a metal pin to the microdrive may be convenient in some cases. The R2drive features a round 0.8 mm hole on the top that can hold a 0.8 mm dowel pin. The pin can hold for example an Omnetics connector. The hole on some drives can be quite tight – make sure the pin fits before loading an electrode. If it is too tight, you can enlarge it with a 0.8 mm (or 1/32 inch) drill. As the drive body is made of aluminum, soldering the pin to the body is difficult. Instead, use glue or a small amount of dental cement, which can be removed during surgery by melting it away (with a soldering iron or any other heated metal, e.g., tweezers heated up in a hot bead sterilizer).
 
 
+.. _user-manual-r2drive-attaching-probe:
+
 Attaching your probe to the R2drive
 -----------------------------------
 
@@ -109,6 +122,7 @@ A method to attach Neuropixels probes (or any other silicon probe) is available 
 Neuropixels 1.0 probe mounted on the R2drive (`source <https://www.youtube.com/watch?v=MpPdWJEo7Fo>`__)
 
 
+.. _user-manual-r2drive-implantation-explantation:
 
 Implantation/explantation protocol
 ----------------------------------
@@ -137,6 +151,8 @@ Explantation, or probe recovery, is relatively  straightforward. See Figure 4 `h
 
 
 
+.. _user-manual-r2drive-probe-cleaning:
+
 Probe cleaning for reuse
 ------------------------
 
@@ -145,7 +161,10 @@ While the recovered probes remain mounted onto the R2drive, cleaning can be done
 
 .. warning::
    Treat the following cleaning procedures are suggestions only. Always verify for your individual type of silicon probe, application and local regulations whether your cleaning protocol is appropriate.
-   
+  
+
+.. _user-manual-r2drive-cleaning-regular-silicon-probes:
+
 Regular silicon probes
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -158,6 +177,8 @@ Rinse in:
 
 
 Each washing step should last for at least 12 hr. Soak the probe shanks only. If extra tissue or debris is detected between the shanks, it can be carefully removed with a fine needle (26 gauge or smaller) under a microscope. 
+
+.. _user-manual-r2drive-cleaning-neuropixels-1-0-probes:
 
 Neuropixels 1.0 probes
 ^^^^^^^^^^^^^^^^^^^^^^

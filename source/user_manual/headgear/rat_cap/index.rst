@@ -1,10 +1,12 @@
-User manual: Rat cap
+.. _user-manual-rat-cap:
+
+Rat cap
 =====================
 
 
 
 
-The 3D-printed parts making up the rat cap weigh 8.3 g. With metal screws, copper tape and pins, the rat cap weighs about 11 g.  
+The 3D printed parts making up the rat cap weigh 8.3 g. With metal screws, copper tape and pins, the rat cap weighs about 11 g.  
 
 .. figure:: ../../../_static/images/rat_cap.png
 

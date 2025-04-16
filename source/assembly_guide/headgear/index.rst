@@ -1,4 +1,6 @@
-Assembly guide: R2 headgear
+.. _assembly-headgear:
+
+R2 headgear
 ============================
 
 In this section, we cover the assembly of both the mouse cap and the rat cap from parts.
