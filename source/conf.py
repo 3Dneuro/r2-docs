@@ -133,8 +133,8 @@ html_theme_options = {
 html_favicon = '_static/images/favicon.png'
 
 html_context = {
-    'github_user': 'der-tim',
-    'github_repo': 'onix-docs',
+    'github_user': '3dneuro',
+    'github_repo': 'r2-docs',
     'github_version': 'main',
     'doc_path': 'source',
     'default_mode': 'light',
