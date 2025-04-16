@@ -1,6 +1,6 @@
 .. _assembly-R2drive:
 
-Assembly guide: R2drive S/L
+R2drive S/L
 ===========================
 
 3Dneuro/Open Ephys ship the R2drive fully assembled, with an individual serial number. Therefore, no assembly of the drive is required.
