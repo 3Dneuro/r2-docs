@@ -28,7 +28,7 @@ The R2rail is fully compatible with our R2 ecosystem – it features the same, p
 
 Attaching and removing your probe
 ---------------------------------
-To get a feeling on how to attach or remove a probe, you can look at the steps described in :ref:`Attaching your probe to the R2drive`.
+To get a feeling on how to attach or remove a probe, you can look at the steps described in :ref:`attaching your probe to the R2drive<user-manual-r2drive-attaching-probe>`.
 It is possible to attach a Neuropixels 2.0 probe to the R2rail without the use of extra tools. The videos below illustrate attachment and removal of probes.
 
 

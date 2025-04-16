@@ -3,13 +3,12 @@
 R2 implantation holders
 =====================================
 
-
 .. _user-manual-implantation-holders-plastic:
 
 3D printed holder (plastic)
 ---------------------------
-The plastic holder comes fully pre-assembled and ready to use. Through the stereotax adapter, the holder can be connected to common stereotactic devices by fastening it to the 8mm rod of the stereotactic arm.
 
+The plastic holder comes fully pre-assembled and ready to use. Through the stereotax adapter, the holder can be connected to common stereotactic devices by fastening it to the 8mm rod of the stereotactic arm.
 
 .. figure:: ../../_static/images/r2_plastic_holder.png
    :alt: R2 plastic holder
@@ -20,14 +19,9 @@ The plastic holder comes fully pre-assembled and ready to use. Through the stere
    **Left:** Original design, with a shaded rendering of an R2drive S in the drive holder.
    **Right:** With mirrored version of the holder.
 
-
-
-
-
 .. warning::
 
    When **fastening the nylon screw** that secures the R2drive or R2rail into the holder, excess pressure may result in breaking the holder. Before implanting, test the holder with an empty drive to get a sense of the sufficient level of fastening.
-
 
 In addition to the original drive holder design, 3Dneuro ships by default a mirrored version of the drive holder (customer request), allowing you to choose the  one most appropriate for your implantation protocol. 
 

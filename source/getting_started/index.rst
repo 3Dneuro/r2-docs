@@ -42,7 +42,7 @@ The *R2rail* is a new type of payload carrier - that in line with the well-estab
 R2drive S & L
 ^^^^^^^^^^^^^
 
-The R2drive comes in two variants, the R2drive S and the R2drive L. They differ mainly in the size of the moveable arm (for details, see :ref:`Two versions`). The R2drive S is appropriate for most probes, while the R2drive L is designed for larger probes, such as the Neuropixels 1.0 probes.
+The R2drive comes in two variants, the R2drive S and the R2drive L. They differ mainly in the size of the moveable arm (for details, see :ref:`user-manual-r2drive-two-versions`). The R2drive S is appropriate for most probes, while the R2drive L is designed for larger probes, such as the Neuropixels 1.0 probes.
 
 The R2drive consists of two main parts: The drive body and the detachable base. 
 

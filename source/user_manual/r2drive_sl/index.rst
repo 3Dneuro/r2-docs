@@ -20,7 +20,7 @@ Each R2drive is fully assembled and ready to use. Metal pins are included. Below
 	
    *Components of the R2drive.*
    **1**. R2drive body, compatible with the :doc:`R2 implantation holders </user_manual/implantation_holders/index>`.
-   **2**. Moveable arm to attach silicon probes to. Comes in :ref:`two sizes (R2drive S and R2drive L)<Two versions>`.
+   **2**. Moveable arm to attach silicon probes to. Comes in :ref:`two sizes (R2drive S and R2drive L)<user-manual-r2drive-two-versions>`.
    **3**. 00-90 brass screw to move the arm up and down. Resolution per turn: 1/90 inch ~ 282 µM
    **4**. Removable base.
    **5**. Screw to secure the base to the body.
