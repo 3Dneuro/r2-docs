@@ -157,7 +157,8 @@ linkcheck_ignore = [
     'https://white-matter.com/*',
     'https://www.pnas.org/*',
     'https://www.sciencedirect.com/*',
-    'https://www.biorxiv.org/*'
+    'https://www.biorxiv.org/*',
+    'https://elifesciences.org/*'
 ]
 
 # NB: Allow this permanent redirect for a Visual Studio package
