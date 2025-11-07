@@ -115,7 +115,7 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links"],
     "navbar_align": "content",
     "footer_start": ["copyright"],
-    "external_links": [{"name": "3Dneuro", "url": "https://3dneuro.com"},],
+    "external_links": [{"name": "3Dneuro", "url": "https://3dneuro.com/quote"},{"name": "OpenEphys", "url": "https://open-ephys.org/r2s"},],
     'icon_links': [
         dict(name='GitHub',
              url='https://github.com/3Dneuro/r2-docs',
