@@ -91,17 +91,18 @@ R2drive stands out by the abundance of protocols available in peer-reviewed jour
             </span>
         </a>
         
-        <a class="reference external" href="https://3dneuro.com/quote" target="_blank" rel="noopener noreferrer">
+        
             <span class="std std-ref custom-card">
                 <div class="card text-center intro-card">
                     <img src="_static/images/icons/online-store.png" class="card-img-top" alt="Store icon" width="64">
                     <div class="card-body flex-fill">
                         <h5 class="card-title">Buy Parts</h5>
-                        <p class="card-text">Order from 3Dneuro.com</p>
+                        <p class="card-text"><a class="reference external" href="https://3dneuro.com/quote" target="_blank" rel="noopener noreferrer">Order from 3Dneuro.com </a></p>
+                        <p class="card-text"><a class="reference external" href="https://open-ephys.org/r2s" target="_blank" rel="noopener noreferrer">Order from open-ephys.org</a></p>
                     </div>
                 </div>
             </span>
-        </a>
+       
         
     </div>
 
