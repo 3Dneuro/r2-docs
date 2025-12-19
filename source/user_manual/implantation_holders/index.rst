@@ -35,15 +35,24 @@ In addition to the original drive holder design, 3Dneuro ships by default a mirr
 
 .. _user-manual-implantation-holders-metal:
 
-Metal holder
--------------
+Metal - Probe Implantation & Management System (M-PIMS)
+-------------------------
 
-Coming soon. 
+To overcome some limitations of the original 3D printed holder, 3Dneuro developed a durable metal holder
+with a smaller footprint and improved holding stability. We then built a full system around the metal holder, 
+to manage probe implantation, explantation and storage in-between experiments. The key components are: 
 
-.. note::
+* Metal holder (stainless steel)
+* Probe storage and transfer box (aluminium base, 3D printed cover)
+* 8 mm pole for implantation and explantation procedures (stainless steel)
+* Connector management system (3D printed and metal parts), present both in the storage/transfer box and on the im-/ex-plantation pole. 
 
-   To overcome some limitations of the original 3D printed holder, 3Dneuro is currently finalizing the development of a metal holder
-   with a smaller footprint and improved holding stability.
+The core design idea is to safely manage the full lifecycle of your probe after it has been attached to the R2drive/R2rail: Preparation, implantation, explantation, clean up, and storage. 
+
+
+
+
+   
 
 
 
