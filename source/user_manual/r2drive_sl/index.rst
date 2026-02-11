@@ -24,7 +24,7 @@ Each R2drive is fully assembled and ready to use. Metal pins are included. Below
    **3**. 00-90 brass screw to move the arm up and down. Resolution per turn: 1/90 inch ~ 282 µM
    **4**. Removable base.
    **5**. Screw to secure the base to the body.
-   
+
 In addition to the 5 main elements illustrated above - drive body, arm, base, driving screw and body-base connecting screw - each R2drive features:
 
 * An engraved serial number on the drive body,  
