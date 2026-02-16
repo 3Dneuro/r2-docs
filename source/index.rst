@@ -27,7 +27,7 @@ Key features
 
 * Compatibility with almost any chronic silicon probe (including Neuropixels).  
 * Metal parts ensure performance and durability for key steps such as probe recovery.
-* Probe recovery rate 70-80% initially, 100% with experience; probe reuse 3+ times, until the impedance degrades.
+* Probe recovery rate 70-80% initially, 100% with experience; reuse probe 3+ times, until the impedance degrades.
 * Ability to move the probe post-implantation with microdrive \- 7mm travel distance.  
 * Lightweight: microdrive \= 0.47g; mouse cap \= 2.2g; rat cap \= 11g.  
 * Components form a fully integrated system but can also be used independently. 
