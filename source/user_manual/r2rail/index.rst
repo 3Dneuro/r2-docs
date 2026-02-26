@@ -4,7 +4,7 @@ R2rail
 ====================
 
 
-The R2rail currently comes in one version: **R2rail 2.0**, for chronic recordings with Neuropixels 2 probes equipped with the dovetail caps (R2rail 1.0 for NPX 1 probes coming soon). 
+The R2rail currently comes in one version: **R2rail 2.0**, for chronic recordings with Neuropixels 2 probes equipped with the dovetail caps (R2rail 1.0 for Neuropixels 1 probes coming soon). 
 
 It features micromachined rails to easily attach and secure the probes, similar to the official holders for acute insertions.
 
@@ -53,7 +53,7 @@ Removal
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://youtube.com/embed/Vq41W80wJkg" title="Probe removal from R2rail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://youtube.com/embed/Vq41W80wJkg" title="probe removal from R2rail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
