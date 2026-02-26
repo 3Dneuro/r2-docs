@@ -18,7 +18,7 @@ The fully assembled mouse cap weighs 2.2 g. To prepare your mouse cap, see :doc:
 For implantation, the base is first attached to the skull using dental cement (Metabond). 
 It does not require skull screws, making it minimally invasive. 
 As shown in the above schematic (source: `Fig 2B <https://elifesciences.org/articles/65859#fig2>`__), 
-one wall can be attached to the base and serve as frame for attaching the connector 
+one wall can be attached to the base and serve as frame for attaching the connector.
 
 
 
