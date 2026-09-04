@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 sphinx = "*"
-pydata-sphinx-theme = "0.13.3"
+pydata-sphinx-theme = "0.17.1"#"0.13.3"
 make = "*"
 pytz = "*"
 sphinxcontrib-wavedrom = "*"
