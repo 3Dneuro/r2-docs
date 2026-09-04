@@ -185,7 +185,72 @@ Neuropixels 1.0 probes
 
 Soak the probe shank in 1% tergazyme (Alconox) for 24–48 hr, then rinse in distilled water and isopropyl alcohol (see `Luo et al., 2020 <https://elifesciences.org/articles/59716>`__).
 
+.. _user-manual-r2drive-drive-cleaning:
 
+Drive cleaning and reuse
+------------------------
+
+The R2drive is cemented to the skull at the base only. The drive body and arm should therefore
+stay largely free of dental acrylic or other hard-to-remove materials during the implantation, which
+is what makes cleaning and reuse practical later on.
+
+If you clean the drive while the probe is still mounted, follow the probe manufacturer's
+recommendations. See :ref:`Probe cleaning for reuse<user-manual-r2drive-probe-cleaning>` for our
+suggestions.
+
+
+.. _user-manual-r2drive-cleaning-the-drive:
+
+How often can a drive be reused?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Aluminium and brass are relatively soft, so threads and sliding surfaces wear over time. In practice
+this is not an issue for using a drive several times. But wear depends on how each lab handles the
+drive, which is a variable we cannot control or give reliable advice on.
+
+We therefore officially recommend **one R2drive per silicon probe**, and a new drive after that. The
+probe itself can be recovered and reimplanted repeatedly: our users reliably recover their probes
+three or more times, and some run months-long experiments on a single probe.
+
+In any case, always verify smooth movement of the arm under a microscope before reusing a drive.
+
+Cleaning a drive for a new probe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Depending on how much residue is left on the drive, use an enzymatic cleaner, ethanol or acetone.
+
+#. Rinse and soak **briefly** in your chosen solution. Do not leave the drive soaking for extended
+   periods (e.g. overnight).
+#. An ultrasonic cleaner helps to loosen stubborn residues (see the warning below).
+#. Scrub the drive body, arm and screw with a soft brush, such as a toothbrush.
+#. Rinse in distilled water and dry the drive thoroughly.
+#. Apply a drop of mineral oil to the threads of the screw where it engages the arm, then run the
+   arm up and down so that the movement distributes the oil along the whole screw.
+#. Verify smooth movement under a microscope before mounting a new probe.
+
+.. warning::
+   Before using any solvent in an ultrasonic cleaner, check your institution's safety rules and
+   your equipment's documentation. Many labs require a certified explosion-proof unit for solvent
+   cleaning, and those rules take precedence over anything written here.
+
+   Ethanol, isopropanol and acetone must never go directly into an ultrasonic tank. Their flash
+   points are around 12–13 °C for the alcohols and about −20 °C for acetone, so the vapour is
+   flammable at room temperature, and cavitation heats the bath further. A spark from a failing
+   transducer or a hot heating element is enough to ignite it. Where your rules permit solvent
+   cleaning without a dedicated unit, use the indirect method: place the solvent in a loosely
+   covered glass beaker, suspend the beaker in a water-filled tank, and work in a well-ventilated
+   area.
+
+.. note::
+   The short soak time is deliberate. The R2drive combines aluminium main parts with a brass
+   driving screw (see :ref:`R2drive features<user-manual-r2drive-features>`). Alkaline enzymatic
+   detergents attack aluminium, and prolonged immersion of two dissimilar metals in an aqueous
+   solution promotes galvanic corrosion. Any cleaning step will also strip the mineral oil
+   from the screw and shuttle, so re-lubricate afterwards as described in
+   :ref:`Before (first) use<user-manual-r2drive-before-use>`.
+
+
+.. _user-manual-r2drive-drive-reuse:
 
 
 
