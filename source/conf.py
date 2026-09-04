@@ -158,6 +158,8 @@ linkcheck_ignore = [
     'https://www.pnas.org/*',
     'https://www.sciencedirect.com/*',
     'https://www.biorxiv.org/*',
+    r"https://doi\.org/10\.7554/.*",    # eLife rejects the linkchecker
+    r"https://doi\.org/10\.21769/.*",   # bio-protocol returns 468    
     'https://elifesciences.org/*'
 ]
 
