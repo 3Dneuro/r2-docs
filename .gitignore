@@ -2,6 +2,8 @@
 docs/*
 source/_build/*
 
+Pipfile.lock
+
 # Compiled source #
 ###################
 *.com

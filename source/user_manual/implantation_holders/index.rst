@@ -3,6 +3,27 @@
 R2 implantation holders
 =====================================
 
+.. _user-manual-implantation-holders-metal:
+
+Metal implantation system
+-------------------------
+
+The R2 metal implantation system manages the full life of your probe after it has been attached to the R2drive/R2rail: preparation, implantation, explantation, clean-up and storage. It is built around a stainless-steel holder with a smaller footprint and a more stable grip than the 3D printed holder, and is the recommended way to implant R2 drives.
+
+.. figure:: ../../_static/images/r2metal/r2metal_A1_overview.png
+   :alt: Advantages of the R2 metal holder over the old 3D-printed holder
+   :width: 100%
+
+The key components are:
+
+* Metal holder (stainless steel)
+* R2 assembly and storage case (aluminium base, clear cover)
+* Stereotactic adapter with 8 mm rod for implantation and explantation (stainless steel)
+* Connector management system (3D printed and metal parts), in the case and on the stereotactic adapter
+
+The full manual is in :ref:`user-manual-metal-system`.
+
+
 .. _user-manual-implantation-holders-plastic:
 
 3D printed holder (plastic)
@@ -31,32 +52,9 @@ In addition to the original drive holder design, 3Dneuro ships by default a mirr
    stereotax attachment. This might cause space issues when large probes are mounted on an R2drive L. When using the mirrored version
    of the holder with the R2drive L, always make sure the probes can be mounted in such a way that they do not collide with the stereotax attachment.
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :titlesonly:
 
-
-.. _user-manual-implantation-holders-metal:
-
-Metal Implantation System
------------------------------
-
-To overcome some limitations of the original 3D printed holder, 3Dneuro developed a complete storange and implantation system to safely manage the full lifecycle of your probe after it has been attached to the R2drive/R2rail: Preparation, implantation, explantation, clean up, and storage. 
-
-In includes a durable metal holder with a smaller footprint and improved holding stability. 
-
-The key components are: 
-
-* Metal holder (stainless steel)
-* Probe storage and transfer case (aluminium base, 3D printed cover)
-* Stereotactic adapter with 8 mm pole for implantation and explantation procedures (stainless steel)
-* Connector management system (3D printed and metal parts), present both in the storage/transfer box and on the im-/ex-plantation pole. 
-
-
-
-
-
-
-   
-
-
-
-
-
+   metal_system/index
