@@ -8,7 +8,7 @@ R2 implantation holders
 Metal implantation system
 -------------------------
 
-The R2 metal implantation system manages the full life of your probe after it has been attached to the R2drive/R2rail: preparation, implantation, explantation, clean-up and storage. It is built around a stainless-steel holder with a smaller footprint and a more stable grip than the 3D printed holder, and is the recommended way to implant R2 drives.
+The R2 metal implantation system manages the full life of your probe after it has been attached to the R2drive/R2rail: preparation, implantation, explantation, clean-up and storage. It is built around a stainless steel holder with a smaller footprint and a more stable grip than the 3D printed holder, and is the recommended way to implant R2 drives.
 
 .. figure:: ../../_static/images/r2metal/r2metal_A1_overview.png
    :alt: Advantages of the R2 metal holder over the old 3D-printed holder
@@ -29,14 +29,14 @@ The full manual is in :ref:`user-manual-metal-system`.
 3D printed holder (plastic)
 ---------------------------
 
-The plastic holder comes fully pre-assembled and ready to use. Through the stereotax adapter, the holder can be connected to common stereotactic devices by fastening it to the 8mm rod of the stereotactic arm.
+The plastic holder comes fully pre-assembled and ready to use. Through the stereotactic adapter, the holder can be connected to common stereotactic devices by fastening it to the 8mm rod of the stereotactic arm.
 
 .. figure:: ../../_static/images/r2_plastic_holder.png
    :alt: R2 plastic holder
    :height: 300px
    :align: center
 
-   The 3D printed stereotax adapter and drive holder, assembled. 
+   The 3D printed stereotactic adapter and drive holder, assembled. 
    **Left:** Original design, with a shaded rendering of an R2drive S in the drive holder.
    **Right:** With mirrored version of the holder.
 
