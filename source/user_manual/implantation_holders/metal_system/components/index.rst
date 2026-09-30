@@ -19,7 +19,7 @@ Stereotactic adapter
 
 The stereotactic adapter is an 8 mm stainless-steel rod that can be attached to most standard stereotactic frames in place of the standard electrode holder. The metal holder screws onto the milled tab at its lower end.
 
-It carries its own connector basket, that can easily be adjusted in height to set the probes' flex-cable tension.
+It carries its own connector basket, that can easily be adjusted in height to set the probe's flex-cable tension.
 
 R2 assembly and storage case
 ----------------------------
@@ -49,7 +49,7 @@ The `R2 assembly and storage case <https://3dneuro.com/products/r2-case>`__ stor
    * - Rod support block (blue)
      - Holds the 8 mm rod while its lower end lies in the case
    * - Lid
-     - Closes with two captive panel screws
+     - Closes with two spring-loaded captive panel screws
 
 From the back, a removable transparent window gives access to the screws of R2rails. You can attach and remove probes on an R2rail while it stays in the case.
 
@@ -72,7 +72,7 @@ Ordering
 
    * - Item
      - Contents
-   * - R2metal implantation system
+   * - R2 metal implantation system
      - Metal holder and stereotactic adapter; R2 assembly and storage case included with the first order
    * - Extra metal holder
      - Metal holder
