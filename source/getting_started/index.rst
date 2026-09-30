@@ -82,7 +82,7 @@ This component of the R2 system includes surgery holders and adapter parts to co
 
 Surgery holders allow the handling of the payload carrier/probe assembly during both implantation and explantation. That includes a system for managing the flex cable and preamplifier board that are attached to the probe. This is a key feature, because besides the probe shanks, damage to the flex cable is a major reason for probe breakage.  
 
-The original design for an implantation holder and stereotaxic adapter consists of 3D printed plastic parts. A new version in metal is under development. 
+3Dneuro offers an optimized implantation system made out of metal. The version 3D printed in plastic from the original paper is also available.
 
 For more information on the holders, see :doc:`the user manual</user_manual/implantation_holders/index>`.
 
