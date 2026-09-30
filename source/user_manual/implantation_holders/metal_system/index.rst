@@ -3,12 +3,12 @@
 R2 metal implantation system
 ============================
 
-The R2metal implantation system handles the full life of a probe once it is attached to an R2drive or R2rail: preparation, implantation, explantation, clean-up and storage. It also replaces the original 3D-printed holder and is the recommended way to implant R2 drives.
+The R2 metal implantation system handles the full life of a probe once it is attached to an R2drive or R2rail: preparation, implantation, explantation, clean-up and storage. It also replaces the original 3D printed holder and is the recommended way to implant your R2drive and R2rail.
 
 .. admonition:: Note: terminology
    :class: note
 
-   This page uses "R2drive" throughout. Whenever procedures differ for the R2rail, it is written down explicitly. We write "Connector/EIB" to cover both probes with a high-density connector (e.g., Omnetics) bonded to the flex cable (for example NeuroNexus silicon probes) and probes with an electrode interface board (for example Neuropixels).
+   This page uses "R2drive" throughout. Whenever procedures differ for the R2rail, it is written down explicitly. We write "Connector/EIB" to cover both probes with a high-density connector (for example Omnetics) bonded to the flex cable (for example NeuroNexus silicon probes) and probes with an electrode interface board (for example Neuropixels).
 
 The R2 metal implantation system is built around the R2 metal holder, a metal holder that is smaller and holds the drive more firmly than the original 3D printed plastic holder. Two design changes free up space during surgery:
 
@@ -27,7 +27,7 @@ Key components
 - **Metal holder** (stainless steel), with a micromachined precision clamping mechanism.
 - **Stereotactic adapter** on a custom 8 mm rod for implantation and explantation (stainless steel).
 - **R2 assembly and storage case** (aluminium base, clear cover).
-- **Connector management system** (3D-printed and metal parts): a connector basket in the case and a second one on the stereotactic adapter. The baskets can be adapted (see the :ref:`basket customization guide <assembly-metal-basket-customization>` and the `connector-basket repository <https://github.com/3Dneuro/r2-metal-implantation-system/tree/main/connector_baskets>`__) and self-printed.
+- **Connector management system** (3D printed and metal parts): a connector basket in the case and a second one on the stereotactic adapter. The baskets can be adapted (see the :ref:`basket customization guide <assembly-metal-basket-customization>` and the `connector-basket repository <https://github.com/3Dneuro/r2-metal-implantation-system/tree/main/connector_baskets>`__) and self-printed.
 
 .. admonition:: Tip: what to order when getting started
    :class: tip
@@ -43,7 +43,7 @@ Compared with the original 3D-printed holder, the metal holder is more stable, g
 
 .. figure:: ../../../_static/images/r2metal/r2metal_A1_overview.png
    :width: 100%
-   :alt: Advantages of the R2 metal holder over the old 3D-printed holder: stability, reliability, and footprint and access.
+   :alt: Advantages of the R2 metal holder over the old 3D printed holder: stability, reliability, and footprint and access.
 
 Stability
 ~~~~~~~~~
