@@ -7,8 +7,8 @@ The **R2 system** is a set of open source tools for chronic extracellular record
 
 The R2 system is an complete and integrated set of tools that includes:
 
-* Several 'payload carriers' for mounting a wide array of silicon probes (e.g. `Neuropixels <https://www.neuropixels.org/>`__, `Neuronexus <https://www.neuronexus.com/>`__, `Cambridge NeuroTech <https://www.cambridgeneurotech.com/>`__, `ATLAS Neuro <https://www.atlasneuro.com/>`__, `DBC <https://diagnosticbiochips.com/>`__),
-* A payload delivery system made of tools for probe preparation, implantation, and recovery,
+* Several payload carriers for mounting a wide array of silicon probes (e.g. `Neuropixels <https://www.neuropixels.org/>`__, `Neuronexus <https://www.neuronexus.com/>`__, `Cambridge NeuroTech <https://www.cambridgeneurotech.com/>`__, `ATLAS Neuro <https://www.atlasneuro.com/>`__, `DBC <https://diagnosticbiochips.com/>`__).
+* A payload delivery system made of tools for probe preparation, implantation, and recovery.
 * Protective scaffolding, called headgear, to protect the probes mechanically and to reduce electrical noise during recordings.
 
 
@@ -24,7 +24,7 @@ Below we go into the details of each component of the R2 system.
 
 .. _getting-started-payload-carrier:
 
-1. Payload carrier - Microdrives & microrails
+1. Payload carrier - microdrives & microrails
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../_static/images/getting_started_carrier.png
@@ -32,7 +32,7 @@ Below we go into the details of each component of the R2 system.
 
 The *R2drives* are classic *microdrives* that hold the silicon probes, and include a mechanism to move the probes up and down for adjusting recording depth.
 
-The *R2rail* is a new type of payload carrier - that in line with the well-established microdrive term we call *microrail* - which was designed for Neuropixels 2.0 probes with a metal cap. R2rail features a dovetail mechanism to which the Neuropixels 2.0 probe can be mounted directly. The R2rail does not allow for adjustment of the recording depth after mounting. As the recording sites on Neuropixels probes span a wide part of the probe shanks, this is often not necessary.
+The *R2rail* is a new type of payload carrier - that in line with the well-established microdrive term we call *microrail* - which was designed for Neuropixels 2.0 probes with a metal cap. R2rail features a dovetail mechanism to which the Neuropixels 2.0 probe can be mounted directly. The R2rail does not allow for adjustment of the recording depth after mounting. As the recording sites on Neuropixels probes span a large portion of the probe shanks, this is often not necessary.
 
 .. note::  
     While the R2rail can be used interchangeably with the R2drive, it does not possess a drive mechanism. Please make sure that you are using an R2drive when adjusting probe depth post-implantation is required for your use case\!
@@ -98,16 +98,16 @@ The most fragile parts of an implant are the silicon probe shanks and flex cable
 
 The headgear serves multiple purposes:
 
-* it protects the probes from mechanical damage during the experiment
-* it can include conductive shielding to reduce electromagnetic noise in the electrophysiological recordings
-* decoupling the headgear from the payload carrier allows the flexible placement of multiple R2drives and/or R2rails on the same implant without the need to redesign the implant
-* decoupling the headgear from the microdrive allows for easier and more successful recovery of the payload carrier-probe assembly than an integrated system
+* It protects the probes from mechanical damage during the experiment.
+* It can include conductive shielding to reduce electromagnetic noise in the electrophysiological recordings.
+* Decoupling the headgear from the payload carrier allows the flexible placement of multiple R2drives and/or R2rails on the same implant without the need to redesign the implant.
+* Decoupling the headgear from the microdrive allows for easier and more successful recovery of the payload carrier-probe assembly than an integrated system.
 
 The R2 system includes multiple headgear designs for different use cases:
 
-* :doc:`Rat cap </user_manual/headgear/rat_cap/index>` for freely moving rats
-* :doc:`Mouse cap </user_manual/headgear/mouse_cap/index>` for freely moving mice
-* Other headgear designs, e.g., 3Dneuro crown, DREAM implant, and custom solutions
+* :doc:`Rat cap </user_manual/headgear/rat_cap/index>` for freely moving rats.
+* :doc:`Mouse cap </user_manual/headgear/mouse_cap/index>` for freely moving mice.
+* Other headgear designs, e.g., 3Dneuro crown, DREAM implant, and custom solutions.
 
 For more information on the headgear, see :doc:`the user manual</user_manual/headgear/index>`.
 
