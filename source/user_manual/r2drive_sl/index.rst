@@ -27,8 +27,8 @@ Each R2drive is fully assembled and ready to use. Metal pins are included. Below
 
 In addition to the 5 main elements illustrated above - drive body, arm, base, driving screw and body-base connecting screw - each R2drive features:
 
-* An engraved serial number on the drive body,  
-* A protruded edge on one side of the arm that is used to align the probe during the mounting procedure,  
+* An engraved serial number on the drive body.  
+* A protruded edge on one side of the arm that is used to align the probe during the mounting procedure.  
 * A 0.8 mm hole near the driving screw head that fits a metal pin of the same diameter.  
 
 .. note::
@@ -40,7 +40,7 @@ In addition to the 5 main elements illustrated above - drive body, arm, base, dr
 Two versions
 ^^^^^^^^^^^^
 
-The R2drive comes in 2 versions, differing by arm size: Small (S) will fit most chronic silicon probes, while large (L) will fit the larger probes, including Neuropixels 1.0. The R2drive L arm, while having the same travel distance, does not reach the lowest possible point. Instead it remains about 0.5 mm above the base bottom,  to accommodate the typically longer probe shanks for this type of probes (e.g. 10-mm long shank for NP 1.0 probes).
+The R2drive comes in 2 versions, differing by arm size: Small (S) will fit most chronic silicon probes, while large (L) will fit the larger probes, including Neuropixels 1.0. The R2drive L arm, while having the same travel distance, does not reach the lowest possible point. Instead it remains about 0.5 mm above the base bottom,  to accommodate the typically longer probe shanks for this type of probes (e.g. 10 mm long shank for Neuropixels 1.0 probes).
 
 
 
@@ -75,7 +75,7 @@ R2drive features
    * - Travel distance (mm)
      - +/- 6.5
    * - Travel per screw turn (µm)
-     - 282 (=1/90 inch)
+     - 282 (= 1/90 inch)
    * - Arm size (mm)
      - S: 3.6 x 8.35 (w x h)
        L: 5 x 10 (w x h)
@@ -94,15 +94,15 @@ For each drive, please do the following checks:
 * Test the base/body separation.
 * Test the drive shuttle movement.
 * Seal the bottom of the base.
-* (optional) Test the metal pin
+* (optional) Test the metal pin.
 
 Below we describe in more detail each check.
 
 (1) For the base/body, sometimes the fit is a bit tight due to variability in the production process. To get a feel for it before use can help with probe recovery later on. Simply unfasten the screw and test if the drive body and base separate easily. If you have additional bases you want to use with the drive, we recommend a quick check of those as well.  
 
-(2) For the shuttle movement: It should be smooth. We apply mineral oil onto the screw and shuttle prior to quality control and packaging. But any kind of lubrication can deteriorate over time. If you handle the drive in a way that removes the mineral oil (e.g. sterilization in alcohol) or if the movement is not smooth, consider adding a drop of mineral oil on the drive screw and the gap between nut and drive body to restore smooth movement.  
+(2) For the shuttle movement: it should be smooth. We apply mineral oil onto the screw and shuttle prior to quality control and packaging. However, any kind of lubrication can deteriorate over time. If you handle the drive in a way that removes the mineral oil (e.g. sterilization in alcohol) or if the movement is not smooth, consider adding a drop of mineral oil on the drive screw and the gap between nut and drive body to restore smooth movement.  
 
-(3) The **bottom of the base needs to be sealed**. Indeed, when left open, either dental cement or fluids might seep into the hole at the bottom and dry up post-implantation. This will likely impede the movement of the screw attaching the body to the base, and as a result, make probe recovery difficult. As a sealant, playdough works well when covered with a fine layer of dental cement (see procedure in `drive assembly video <https://buzsakilab.github.io/3d_print_designs/microdrives/metal-microdrive/>`__, starting at 1 min 57s).  
+(3) The **bottom of the base needs to be sealed**. When left open, either dental cement or fluids might seep into the hole at the bottom and dry up post-implantation. This will likely impede the movement of the screw attaching the body to the base, and as a result, make probe recovery difficult. As a sealant, playdough works well when covered with a fine layer of dental cement (see procedure in `drive assembly video <https://buzsakilab.github.io/3d_print_designs/microdrives/metal-microdrive/>`__, starting at 1 min 57s).  
 
 (4) Attaching a metal pin to the microdrive may be convenient in some cases. The R2drive features a round 0.8 mm hole on the top that can hold a 0.8 mm dowel pin. The pin can hold for example an Omnetics connector. The hole on some drives can be quite tight – make sure the pin fits before loading an electrode. If it is too tight, you can enlarge it with a 0.8 mm (or 1/32 inch) drill. As the drive body is made of aluminum, soldering the pin to the body is difficult. Instead, use glue or a small amount of dental cement, which can be removed during surgery by melting it away (with a soldering iron or any other heated metal, e.g., tweezers heated up in a hot bead sterilizer).
 
@@ -131,8 +131,8 @@ Implantation/explantation protocol
 
 After the following 3 steps have been completed: 
 
-#. Probe is mounted on the R2drive,
-#. The R2drive is connected to your stereotax through the drive holder,
+#. Probe is mounted on the R2drive.
+#. The R2drive is connected to your stereotax through the drive holder.
 #. The probe connector is secured by means of soldering or other.
 
 Then, probe implantation becomes a standard procedure. A full surgery protocol using the R2drive and holder is available `here <https://dx.doi.org/10.3791/66867-v>`__ (the R2 cap system is not used in this protocol, see headgear section for mouse/rat cap implantation).
@@ -160,7 +160,7 @@ Probe cleaning for reuse
 While the recovered probes remain mounted onto the R2drive, cleaning can be done by lowering the probe into various solutions depending on the probe type. 
 
 .. warning::
-   Treat the following cleaning procedures are suggestions only. Always verify for your individual type of silicon probe, application and local regulations whether your cleaning protocol is appropriate.
+   Treat the following cleaning procedures as suggestions only. Always verify for your individual type of silicon probe, application and local regulations whether your cleaning protocol is appropriate.
   
 
 .. _user-manual-r2drive-cleaning-regular-silicon-probes:
@@ -170,8 +170,8 @@ Regular silicon probes
 
 Rinse in: 
 
-#. Distilled water,
-#. Contact lens solution (containing protease),
+#. Distilled water.
+#. Contact lens solution (containing protease).
 #. Distilled water again.
 
 
